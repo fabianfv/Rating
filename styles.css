@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+}
+
+#cero {
+  display: none;
+}
+
+.thumbs {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.fa-thumbs-up {
+  font-size: 5em;
+  display: inline-block;
+  margin-right: 0.3em;
+  color: blueviolet;
+  cursor: pointer;
+}
+
+.violet {
+  color: blueviolet;
+}
+
+.red {
+  color: red;
+}

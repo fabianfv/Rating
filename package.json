@@ -1,0 +1,20 @@
+{
+  "name": "Rating",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Fabián Flores Vadell",
+  "license": "ISC",
+  "homepage": "https://github.com/fabianfv/Rating#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabianfv/Rating.git"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.3"
+  }
+}
